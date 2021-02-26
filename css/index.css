@@ -10,19 +10,18 @@ body{
 
 	min-width:1040px;
 	background-repeat: no-repeat;
-
 	overflow-x:hidden;
 
 }
 
+a {
+	color: #000;
+}
 
-/**a{
-	color: #999999;
-}
 a:hover{
-	color: #dddddd;
+	color: #fff;
 }
-**/
+
 
 #intro_container, #outro_container{
 	width:100%; height:550px;
